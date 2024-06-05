@@ -7,3 +7,5 @@ Groceriers - ITEM SELECTION - Users can select items from different categories: 
              Continue Shopping or Exit - You can continue shopping by selecting another area or item. 
              To finish shopping, enter "G" (Go Back) to return to the main menu or "X" to exit.
 
+Guessing game - users have to guess the correct number within 5 guesses, if they are not successful in guessing correctly within 5 guesses they will fail and be told ("you have run out of guesses, Goodbye") and will have to try again
+if users number is to low they will be told number is to low, if users guess is higher then the number they will be told they're guess is to high. If user guesses correctly they will be victorious 
